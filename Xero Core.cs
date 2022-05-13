@@ -80,8 +80,11 @@ namespace BegoneGameObject // This is more then just a mod its how I learned c# 
             {
                 foreach (var player in Useful.Players)
                 {
-                if (Useful.GetActorNumber(Useful.LocalPlayer1._player) != __0.sender && Useful.GetActorNumber(player) == __0.sender)
+                    if (__0.Code == 3)
+                    {
+                        if (Useful.GetActorNumber(Useful.LocalPlayer1._player) != __0.sender && Useful.GetActorNumber(player) == __0.sender)
                             MelonLogger.Msg(player.prop_APIUser_0.displayName + " Sent a Join Request");
+                    }
 
                 }
                 if (Event3off == true)
@@ -806,5 +809,7 @@ namespace BegoneGameObject // This is more then just a mod its how I learned c# 
         public static PhotonHandler photonHandler;
 
         public static bool CaptureAllEvents = true;
+
+        public static bool CopyAllEvents = false;
     }
 }
