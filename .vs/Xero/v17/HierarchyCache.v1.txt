@@ -1,0 +1,649 @@
+﻿++Solution 'Xero' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Xero.sln
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++.editorconfig
+i:{dd60c1ea-6b55-4902-8293-fec7b0d10f72}:D:\BACKUP VS\z- NEW REPO\repos\GameObjectBegone\.editorconfig
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\.editorconfig
+++Joey.pfx
+i:{dd60c1ea-6b55-4902-8293-fec7b0d10f72}:D:\BACKUP VS\z- NEW REPO\repos\GameObjectBegone\Joey.pfx
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\joey.pfx
+++Xero
+i:{00000000-0000-0000-0000-000000000000}:Xero
+++Connected Services
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\connected services\
+++Properties
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\properties\
+++References
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++A - hold
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\
+++Apackages.config
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\apackages.config
+++Clock.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\clock.cs
+++Config.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\config.cs
+++RateLimit.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\ratelimit.cs
+++SaveRPCFPSPLZ.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\saverpcfpsplz.cs
+++TheConfig.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a - hold\theconfig.cs
+++a  - Throw away Buttons
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\
+++Colors.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\colors.cs
+++Lag.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\lag.cs
+++lagger.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\lagger.cs
+++LoadMusic.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\loadmusic.cs
+++Patches.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\patches.cs
+++reflextion.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\reflextion.cs
+++SaveStuff.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\savestuff.cs
+++SpriteExtensions.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\spriteextensions.cs
+++Utils.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\utils.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\b - buttons\utils.cs
+++Utils2.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\utils2.cs
+++Utils3.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\utils3.cs
+++VRC+Sprite.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\a  - throw away buttons\vrc+sprite.cs
+++B - Buttons
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\b - buttons\
+++popupv2.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\b - buttons\popupv2.cs
+++Time.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\b - buttons\time.cs
+++World.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\b - buttons\world.cs
+++New Button System
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\
+++Buton Group.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\buton group.cs
+++ButtonAPI.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\buttonapi.cs
+++Extensions.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\extensions.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\extensions.cs
+++Menu Page.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\menu page.cs
+++Simple Button Group.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\simple button group.cs
+++Simple Single Button.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\simple single button.cs
+++SingleButton.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\singlebutton.cs
+++Slider.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\slider.cs
+++Tab.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\tab.cs
+++TextButton.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\textbutton.cs
+++ToggleButton.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\new button system\togglebutton.cs
+++Z - atinyJSON
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\
+++AfterDecode.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\afterdecode.cs
+++BeforeDecode.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\beforedecode.cs
+++DecodeAlias.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\decodealias.cs
+++DecodeExceptions.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\decodeexceptions.cs
+++Decoder.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\decoder.cs
+++EncodeOptions.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\encodeoptions.cs
+++Encoder.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\encoder.cs
+++exclude.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\exclude.cs
+++Include.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\include.cs
+++JSON.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\json.cs
+++jsonDecoder.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\jsondecoder.cs
+++Load.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\load.cs
+++Proxxy Array.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\proxxy array.cs
+++ProxyBoolean.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\proxyboolean.cs
+++ProxyNumber.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\proxynumber.cs
+++ProxyObject.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\proxyobject.cs
+++ProxyString.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\proxystring.cs
+++skip.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\skip.cs
+++typehint.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\typehint.cs
+++Varient.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - atinyjson\varient.cs
+++Z - Features
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\
+++Avatar Fav.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\avatar fav.cs
+++FreeRoam.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\freeroam.cs
+++ModColors.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\modcolors.cs
+++Patch.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\patch.cs
+++Pathes.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\pathes.cs
+++PortalToInstance.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\portaltoinstance.cs
+++SpaceRemoval.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\spaceremoval.cs
+++Spectator.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\spectator.cs
+++ThirdPerson.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\z - features\thirdperson.cs
+++Functions.cs
+++Xero Core.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\xero core.cs
+++AssemblyInfo.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\properties\assemblyinfo.cs
+++Class1.cs
+++Settings.settings
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\properties\settings.settings
+++Accessibility
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Assembly-CSharp
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Assembly-CSharp-firstpass
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++AVProVideo.Extensions.Timeline
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++AVProVideo.Extensions.UnityUI
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++AVProVideo.Extensions.VisualEffectGraph
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++AVProVideo.Runtime
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Boo.Lang
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Boo.Lang.Compiler
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Boo.Lang.Extensions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Boo.Lang.Parser
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Boo.Lang.PatternMatching
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Boo.Lang.Useful
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Cinemachine
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++clipper_library
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Collections.Pooled
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Commons.Xml.Relaxng
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++cscompmgd
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++CustomMarshalers
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++DataModel
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++DOTween
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++DOTween.Modules
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Facepunch.Steamworks.Win64
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++I18N
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++I18N.CJK
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++I18N.MidEast
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++I18N.Other
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++I18N.Rare
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++I18N.West
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++IBM.Data.DB2
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Iced
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++ICSharpCode.SharpZipLib
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppMono.Security
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2Cppmscorlib
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Buffers
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Collections.Immutable
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Configuration
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Core
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Diagnostics.StackTrace
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Drawing
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Globalization.Extensions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.IO.Compression
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Memory
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Runtime
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Runtime.CompilerServices.Unsafe
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Runtime.Serialization
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.ValueTuple
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Xml
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Il2CppSystem.Xml.Linq
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++MelonLoader
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Microsoft.CSharp
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Microsoft.Web.Infrastructure
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.CompilerServices.SymbolWriter
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.CSharp
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.Data.Sqlite
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.Data.Tds
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.Messaging
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.Posix
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.Security
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Mono.WebBrowser
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++netstandard
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Newtonsoft.Json
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Novell.Directory.Ldap
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Oculus.Platform
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Oculus.VR
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Photon-DotNet
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++PlagueButtonAPI
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++ReMod.Core
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Rug.Osc
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++SMDiagnostics
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ComponentModel.Composition
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ComponentModel.DataAnnotations
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Configuration
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Configuration.Install
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data.DataSetExtensions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data.Entity
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data.Linq
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data.OracleClient
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data.Services
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Data.Services.Client
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Design
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.DirectoryServices
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.DirectoryServices.Protocols
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Drawing
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Drawing.Design
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.EnterpriseServices
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.IdentityModel
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.IdentityModel.Selectors
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.IO.Compression
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.IO.Compression.FileSystem
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Json
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Management
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Messaging
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Net
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Net.Http
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Net.Http.Formatting
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Net.Http.WebRequest
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Numerics
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Numerics.Vectors
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Reflection.Context
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Runtime.Caching
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Runtime.DurableInstancing
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Runtime.Remoting
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Runtime.Serialization
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Runtime.Serialization.Formatters.Soap
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Security
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceModel
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceModel.Activation
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceModel.Discovery
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceModel.Internals
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceModel.Routing
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceModel.Web
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.ServiceProcess
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Transactions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Abstractions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.ApplicationServices
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.DynamicData
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Extensions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Extensions.Design
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Http
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Http.SelfHost
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Http.WebHost
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Mvc
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Razor
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.RegularExpressions
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Routing
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.Services
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.WebPages
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.WebPages.Deployment
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Web.WebPages.Razor
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Windows.Forms
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Windows.Forms.DataVisualization
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Xaml
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Xml
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++System.Xml.Linq
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++SystemWebTestShim
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Transmtn
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UIExpansionKit
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnhollowerBaseLib
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnhollowerRuntimeLib
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UniTask
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UniTask.Addressables
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UniTask.DOTween
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UniTask.Linq
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UniTask.TextMeshPro
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Unity.InputSystem
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Unity.Postprocessing.Runtime
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Unity.TextMeshPro
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Unity.Timeline
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.AccessibilityModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.AIModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.AndroidJNIModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.AnimationModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ARModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.AssetBundleModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.AudioModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ClothModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ClusterInputModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ClusterRendererModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.CoreModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.CrashReportingModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.DirectorModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.DSPGraphModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.GameCenterModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.GridModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.HotReloadModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.Il2CppAssetBundleManager
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.Il2CppImageConversionManager
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ImageConversionModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.IMGUIModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.InputLegacyModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.InputModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.JSONSerializeModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.LocalizationModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ParticleSystemModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.PerformanceReportingModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.Physics2DModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.PhysicsModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ProfilerModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.ScreenCaptureModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.SharedInternalsModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.SpriteMaskModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.SpriteShapeModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.StreamingModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.SubstanceModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.SubsystemsModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.TerrainModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.TerrainPhysicsModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.TextCoreModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.TextRenderingModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.TilemapModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.TLSModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UI
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UIElementsModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UIModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UmbraModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UNETModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityAnalyticsModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityConnectModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityTestProtocolModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityWebRequestModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.VehiclesModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.VFXModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.VideoModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.VRModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.WindModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++UnityEngine.XRModule
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++ValueTupleBridge
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.SDKBase.Editor.BuildPipeline
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.ClientBindings
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.Common
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.Security
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.Serialization.AOT
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.Serialization.OdinSerializer
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.VM
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.VRCWrapperModules
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Udon.Wrapper
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.UI.Core
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.UI.Elements
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.UI.Shared
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRC.Utility
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCCore-Editor
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCCore-Standalone
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCLog
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCSDK2
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCSDK3
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCSDK3A
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++VRCSDKBase
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++websocket-sharp
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++WindowsBase
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:
+++Settings.Designer.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\properties\settings.designer.cs
+++Functions2.0.cs
+++old.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\old.cs
+++Xero Functions.cs
+i:{f93cab17-311b-4047-8e3d-af4d4950cf32}:d:\backup vs\z- new repo\repos\gameobjectbegone\xero functions.cs

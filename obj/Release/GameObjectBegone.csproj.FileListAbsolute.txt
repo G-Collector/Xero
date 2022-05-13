@@ -1,0 +1,6 @@
+C:\Users\foxxv\source\repos\GameObjectBegone\bin\Release\GameObjectBegone.dll
+C:\Users\foxxv\source\repos\GameObjectBegone\bin\Release\GameObjectBegone.pdb
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Release\GameObjectBegone.csproj.CoreCompileInputs.cache
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Release\GameObjectBegone.dll
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Release\GameObjectBegone.pdb
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Release\GameObjectBegone.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\steam\steamapps\common\VRChat\Mods\Xero.dll
+D:\steam\steamapps\common\VRChat\Mods\Xero.pdb
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Debug\Xero.csproj.CoreCompileInputs.cache
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Debug\Xero.dll
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Debug\Xero.pdb
+C:\Users\foxxv\source\repos\GameObjectBegone\obj\Debug\Xero.csproj.AssemblyReference.cache
+D:\BACKUP VS\z- NEW REPO\repos\GameObjectBegone\obj\Debug\Xero.csproj.AssemblyReference.cache
+D:\BACKUP VS\z- NEW REPO\repos\GameObjectBegone\obj\Debug\Xero.csproj.CoreCompileInputs.cache
+D:\BACKUP VS\z- NEW REPO\repos\GameObjectBegone\obj\Debug\Xero.dll
+D:\BACKUP VS\z- NEW REPO\repos\GameObjectBegone\obj\Debug\Xero.pdb
