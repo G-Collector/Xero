@@ -383,7 +383,7 @@ namespace BegoneGameObject // This is more then just a mod its how I learned c# 
                 catch (Exception ex) { MelonLogger.Error("Error in Scene UI [{0}]", ex.Message); }
             playerjoinboolwait = true;
             MelonLogger.Msg($"Scene was loaded [{sceneName}]");
-            //badauth();
+            //AuthenticationLocal(); I no longer Use this since I am making it public but still...
         }
 
 
@@ -479,7 +479,7 @@ namespace BegoneGameObject // This is more then just a mod its how I learned c# 
         {
             if (fakefps)
                 __result = 1f / anumber;
-            else __result = __result; // I know this looks rhetorical but it changes the ping back to its original value.
+            else __result = __result; // I know this looks rhetorical but it changes the FPS back to its original value.
         }
 
         private static IEnumerable<int> PingIterator()
